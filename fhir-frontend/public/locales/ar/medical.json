@@ -1,0 +1,38 @@
+{
+  "patient": {
+    "demographics": "التركيبة السكانية",
+    "conditions": "الحالات المرضية",
+    "medications": "الأدوية",
+    "allergies": "الحساسية",
+    "vitals": "العلامات الحيوية",
+    "procedures": "الإجراءات",
+    "encounters": "المقابلات",
+    "observations": "الملاحظات"
+  },
+  "conditions": {
+    "diabetes": "السكري",
+    "hypertension": "ارتفاع ضغط الدم",
+    "asthma": "الربو",
+    "depression": "الاكتئاب",
+    "anxiety": "القلق",
+    "heartDisease": "أمراض القلب",
+    "cancer": "السرطان",
+    "copd": "مرض الانسداد الرئوي المزمن"
+  },
+  "severity": {
+    "mild": "خفيف",
+    "moderate": "متوسط",
+    "severe": "شديد",
+    "critical": "حرج"
+  },
+  "units": {
+    "kg": "كغ",
+    "lbs": "رطل",
+    "cm": "سم",
+    "ft": "قدم",
+    "bpm": "ن/د",
+    "mmHg": "ملم زئبق",
+    "celsius": "مئوية",
+    "fahrenheit": "فهرنهايت"
+  }
+}

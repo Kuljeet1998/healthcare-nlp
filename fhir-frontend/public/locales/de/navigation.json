@@ -1,0 +1,28 @@
+{
+  "header": {
+    "title": "FHIR Patientendatenbank",
+    "subtitle": "Patienten-Gesundheitsdaten-Management"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "patients": "Patienten",
+    "search": "Suche",
+    "reports": "Berichte",
+    "analytics": "Analysen",
+    "settings": "Einstellungen"
+  },
+  "menu": {
+    "file": "Datei",
+    "edit": "Bearbeiten",
+    "view": "Ansicht",
+    "tools": "Werkzeuge",
+    "help": "Hilfe"
+  },
+  "breadcrumb": {
+    "home": "Startseite",
+    "patients": "Patienten",
+    "patient": "Patient",
+    "details": "Details",
+    "history": "Verlauf"
+  }
+}

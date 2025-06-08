@@ -1,0 +1,31 @@
+{
+  "api": {
+    "offline": "API offline - Bitte Serververbindung prüfen",
+    "error": "API-Fehler",
+    "timeout": "Anfrage-Timeout erreicht",
+    "network": "Netzwerkfehler",
+    "unauthorized": "Nicht autorisiert",
+    "forbidden": "Zugriff verweigert",
+    "notFound": "Ressource nicht gefunden",
+    "serverError": "Interner Serverfehler"
+  },
+  "validation": {
+    "required": "Dieses Feld ist erforderlich",
+    "invalidEmail": "Ungültiges E-Mail-Format",
+    "invalidDate": "Ungültiges Datumsformat",
+    "minLength": "Mindestlänge erforderlich: {{min}} Zeichen",
+    "maxLength": "Maximallänge überschritten: {{max}} Zeichen",
+    "invalidRange": "Wert außerhalb des zulässigen Bereichs"
+  },
+  "query": {
+    "empty": "Bitte geben Sie eine Abfrage ein",
+    "failed": "Abfrage-Ausführung fehlgeschlagen",
+    "noResults": "Keine Ergebnisse gefunden",
+    "parseError": "Abfrage-Parse-Fehler"
+  },
+  "general": {
+    "unknown": "Ein unbekannter Fehler ist aufgetreten",
+    "tryAgain": "Bitte versuchen Sie es erneut",
+    "contactSupport": "Kontaktieren Sie den Support, wenn das Problem weiterhin besteht"
+  }
+}

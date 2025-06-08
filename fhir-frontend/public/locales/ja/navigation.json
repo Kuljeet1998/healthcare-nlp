@@ -1,0 +1,28 @@
+{
+  "header": {
+    "title": "FHIR患者データベース",
+    "subtitle": "患者健康データ管理"
+  },
+  "nav": {
+    "dashboard": "ダッシュボード",
+    "patients": "患者",
+    "search": "検索",
+    "reports": "レポート",
+    "analytics": "分析",
+    "settings": "設定"
+  },
+  "menu": {
+    "file": "ファイル",
+    "edit": "編集",
+    "view": "表示",
+    "tools": "ツール",
+    "help": "ヘルプ"
+  },
+  "breadcrumb": {
+    "home": "ホーム",
+    "patients": "患者",
+    "patient": "患者",
+    "details": "詳細",
+    "history": "履歴"
+  }
+}

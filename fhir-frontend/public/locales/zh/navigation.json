@@ -1,0 +1,28 @@
+{
+  "header": {
+    "title": "FHIR 患者数据库",
+    "subtitle": "患者健康数据管理"
+  },
+  "nav": {
+    "dashboard": "仪表板",
+    "patients": "患者",
+    "search": "搜索",
+    "reports": "报告",
+    "analytics": "分析",
+    "settings": "设置"
+  },
+  "menu": {
+    "file": "文件",
+    "edit": "编辑",
+    "view": "查看",
+    "tools": "工具",
+    "help": "帮助"
+  },
+  "breadcrumb": {
+    "home": "首页",
+    "patients": "患者",
+    "patient": "患者",
+    "details": "详情",
+    "history": "历史记录"
+  }
+}

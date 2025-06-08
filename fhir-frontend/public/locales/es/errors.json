@@ -1,0 +1,27 @@
+{
+  "general": {
+    "unknownError": "Error desconocido",
+    "networkError": "Error de red",
+    "timeoutError": "Tiempo de espera agotado",
+    "serverError": "Error del servidor",
+    "notFound": "No encontrado",
+    "unauthorized": "No autorizado",
+    "forbidden": "Prohibido"
+  },
+  "form": {
+    "required": "Este campo es obligatorio",
+    "invalidFormat": "Formato inválido",
+    "minLength": "Longitud mínima no alcanzada",
+    "maxLength": "Longitud máxima excedida",
+    "invalidEmail": "Correo electrónico inválido",
+    "invalidPhone": "Número de teléfono inválido",
+    "invalidDate": "Fecha inválida"
+  },
+  "api": {
+    "connectionFailed": "Error de conexión con la API",
+    "queryFailed": "Error en la consulta",
+    "dataLoadFailed": "Error al cargar datos",
+    "saveFailed": "Error al guardar",
+    "deleteFailed": "Error al eliminar"
+  }
+}

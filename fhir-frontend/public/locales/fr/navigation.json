@@ -1,0 +1,25 @@
+{
+  "header": {
+    "title": "Interface de Requête de Santé FHIR",
+    "subtitle": "Exploration de données de santé en langage naturel alimentée par l'IA"
+  },
+  "tabs": {
+    "results": "Résultats de Requête",
+    "table": "Données des Patients",
+    "charts": "Visualisations"
+  },
+  "menu": {
+    "home": "Accueil",
+    "patients": "Patients",
+    "queries": "Requêtes",
+    "reports": "Rapports",
+    "admin": "Administration"
+  },
+  "api": {
+    "status": "Statut de l'API",
+    "online": "API En ligne",
+    "offline": "API Hors ligne",
+    "checking": "Vérification...",
+    "reconnect": "Reconnecter"
+  }
+}

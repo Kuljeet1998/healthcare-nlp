@@ -1,0 +1,36 @@
+{
+  "query": {
+    "title": "Requête de Santé",
+    "placeholder": "Demandez des informations sur les données des patients, les conditions, les médicaments ou les symptômes...",
+    "submit": "Rechercher",
+    "examples": "Essayez ces exemples de requêtes:",
+    "processing": "Traitement de votre requête de santé...",
+    "analyzing": "Utilisation du NLP avancé pour analyser votre demande"
+  },
+  "filters": {
+    "title": "Filtres",
+    "age": "Tranche d'âge",
+    "gender": "Genre",
+    "conditions": "Conditions Médicales",
+    "dateRange": "Plage de Dates",
+    "severity": "Sévérité",
+    "apply": "Appliquer les Filtres",
+    "clear": "Effacer les Filtres",
+    "showing": "Affichage de {{count}} sur {{total}} patients"
+  },
+  "patient": {
+    "details": "Détails du Patient",
+    "basicInfo": "Informations de Base",
+    "conditions": "Conditions",
+    "medications": "Médicaments",
+    "vitals": "Signes Vitaux",
+    "closeDetails": "Fermer les Détails",
+    "noPatientSelected": "Aucun patient sélectionné"
+  },
+  "validation": {
+    "required": "Ce champ est obligatoire",
+    "invalidEmail": "Adresse e-mail invalide",
+    "invalidPhone": "Numéro de téléphone invalide",
+    "invalidDate": "Date invalide"
+  }
+}

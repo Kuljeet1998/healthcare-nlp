@@ -1,0 +1,36 @@
+{
+  "query": {
+    "title": "医疗查询",
+    "placeholder": "询问患者数据、病症、药物或症状...",
+    "submit": "搜索",
+    "examples": "试试这些示例查询：",
+    "processing": "正在处理您的医疗查询...",
+    "analyzing": "使用高级NLP分析您的请求"
+  },
+  "filters": {
+    "title": "筛选器",
+    "age": "年龄范围",
+    "gender": "性别",
+    "conditions": "疾病",
+    "dateRange": "日期范围",
+    "severity": "严重程度",
+    "apply": "应用筛选器",
+    "clear": "清除筛选器",
+    "showing": "显示 {{count}} / {{total}} 名患者"
+  },
+  "patient": {
+    "details": "患者详情", 
+    "basicInfo": "基本信息",
+    "conditions": "疾病",
+    "medications": "药物",
+    "vitals": "生命体征",
+    "closeDetails": "关闭详情",
+    "noPatientSelected": "未选择患者"
+  },
+  "validation": {
+    "required": "此字段为必填项",
+    "invalidEmail": "无效的邮箱地址",
+    "invalidPhone": "无效的电话号码",
+    "invalidDate": "无效的日期"
+  }
+}

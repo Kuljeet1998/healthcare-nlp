@@ -1,0 +1,36 @@
+{
+  "query": {
+    "title": "Consulta de Salud",
+    "placeholder": "Pregunte sobre datos de pacientes, condiciones, medicamentos o síntomas...",
+    "submit": "Buscar",
+    "examples": "Pruebe estas consultas de ejemplo:",
+    "processing": "Procesando su consulta de salud...",
+    "analyzing": "Usando NLP avanzado para analizar su solicitud"
+  },
+  "filters": {
+    "title": "Filtros",
+    "age": "Rango de Edad",
+    "gender": "Género",
+    "conditions": "Condiciones Médicas",
+    "dateRange": "Rango de Fechas",
+    "severity": "Severidad",
+    "apply": "Aplicar Filtros",
+    "clear": "Limpiar Filtros",
+    "showing": "Mostrando {{count}} de {{total}} pacientes"
+  },
+  "patient": {
+    "details": "Detalles del Paciente",
+    "basicInfo": "Información Básica",
+    "conditions": "Condiciones",
+    "medications": "Medicamentos",
+    "vitals": "Signos Vitales",
+    "closeDetails": "Cerrar Detalles",
+    "noPatientSelected": "Ningún paciente seleccionado"
+  },
+  "validation": {
+    "required": "Este campo es obligatorio",
+    "invalidEmail": "Dirección de correo electrónico inválida",
+    "invalidPhone": "Número de teléfono inválido",
+    "invalidDate": "Fecha inválida"
+  }
+}

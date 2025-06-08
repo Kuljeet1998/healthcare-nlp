@@ -1,0 +1,42 @@
+{
+  "api": {
+    "timeout": "Request timeout - please try again",
+    "offline": "API is currently offline",
+    "connectionFailed": "Failed to connect to the server",
+    "invalidResponse": "Received invalid response from server",
+    "serverError": "Server error occurred",
+    "networkError": "Network error - please check your connection",
+    "unauthorized": "Unauthorized access",
+    "forbidden": "Access forbidden",
+    "notFound": "Resource not found",
+    "rateLimited": "Too many requests - please wait and try again"
+  },
+  "query": {
+    "processingFailed": "Query processing failed",
+    "invalidQuery": "Invalid query format",
+    "noResults": "No results found",
+    "tooManyResults": "Too many results - please refine your query",
+    "emptyQuery": "Please enter a query"
+  },
+  "patient": {
+    "notFound": "Patient not found",
+    "loadFailed": "Failed to load patient data",
+    "updateFailed": "Failed to update patient information",
+    "invalidPatientId": "Invalid patient ID"
+  },
+  "general": {
+    "unexpectedError": "An unexpected error occurred",
+    "tryAgainLater": "Please try again later",
+    "contactSupport": "Please contact support if the problem persists",
+    "sessionExpired": "Your session has expired - please refresh the page"
+  },
+  "validation": {
+    "fieldRequired": "This field is required",
+    "invalidFormat": "Invalid format",
+    "valueTooShort": "Value is too short",
+    "valueTooLong": "Value is too long",
+    "invalidEmail": "Invalid email address",
+    "invalidDate": "Invalid date format",
+    "invalidAge": "Invalid age value"
+  }
+}

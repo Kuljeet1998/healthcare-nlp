@@ -1,0 +1,38 @@
+{
+  "patient": {
+    "demographics": "人口统计学",
+    "conditions": "疾病",
+    "medications": "药物",
+    "allergies": "过敏",
+    "vitals": "生命体征",
+    "procedures": "手术",
+    "encounters": "就诊",
+    "observations": "观察"
+  },
+  "conditions": {
+    "diabetes": "糖尿病",
+    "hypertension": "高血压",
+    "asthma": "哮喘",
+    "depression": "抑郁症",
+    "anxiety": "焦虑",
+    "heartDisease": "心脏病",
+    "cancer": "癌症",
+    "copd": "慢阻肺"
+  },
+  "severity": {
+    "mild": "轻度",
+    "moderate": "中度",
+    "severe": "重度",
+    "critical": "危重"
+  },
+  "units": {
+    "kg": "公斤",
+    "lbs": "磅",
+    "cm": "厘米",
+    "ft": "英尺",
+    "bpm": "次/分",
+    "mmHg": "毫米汞柱",
+    "celsius": "摄氏度",
+    "fahrenheit": "华氏度"
+  }
+}

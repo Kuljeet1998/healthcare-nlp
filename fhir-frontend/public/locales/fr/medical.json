@@ -1,0 +1,38 @@
+{
+  "patient": {
+    "demographics": "Données démographiques",
+    "conditions": "Conditions",
+    "medications": "Médicaments",
+    "allergies": "Allergies",
+    "vitals": "Signes vitaux",
+    "procedures": "Procédures",
+    "encounters": "Rencontres",
+    "observations": "Observations"
+  },
+  "conditions": {
+    "diabetes": "Diabète",
+    "hypertension": "Hypertension",
+    "asthma": "Asthme",
+    "depression": "Dépression",
+    "anxiety": "Anxiété",
+    "heartDisease": "Maladie cardiaque",
+    "cancer": "Cancer",
+    "copd": "BPCO"
+  },
+  "severity": {
+    "mild": "Léger",
+    "moderate": "Modéré",
+    "severe": "Sévère",
+    "critical": "Critique"
+  },
+  "units": {
+    "kg": "kg",
+    "lbs": "livres",
+    "cm": "cm",
+    "ft": "pieds",
+    "bpm": "bpm",
+    "mmHg": "mmHg",
+    "celsius": "°C",
+    "fahrenheit": "°F"
+  }
+}

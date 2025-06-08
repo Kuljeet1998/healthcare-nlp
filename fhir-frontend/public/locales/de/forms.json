@@ -1,0 +1,36 @@
+{
+  "query": {
+    "title": "Gesundheitsabfrage",
+    "placeholder": "Fragen Sie nach Patientendaten, Erkrankungen, Medikamenten oder Symptomen...",
+    "submit": "Suchen",
+    "examples": "Probieren Sie diese Beispielabfragen:",
+    "processing": "Verarbeitung Ihrer Gesundheitsabfrage...", 
+    "analyzing": "Verwende fortgeschrittene NLP zur Analyse Ihrer Anfrage"
+  },
+  "filters": {
+    "title": "Filter",
+    "age": "Altersbereich",
+    "gender": "Geschlecht",
+    "conditions": "Medizinische Erkrankungen",
+    "dateRange": "Datumsbereich",
+    "severity": "Schweregrad",
+    "apply": "Filter anwenden",
+    "clear": "Filter löschen",
+    "showing": "Zeige {{count}} von {{total}} Patienten"
+  },
+  "patient": {
+    "details": "Patientendetails",
+    "basicInfo": "Grundinformationen",
+    "conditions": "Erkrankungen",
+    "medications": "Medikamente",
+    "vitals": "Vitalzeichen",
+    "closeDetails": "Details schließen",
+    "noPatientSelected": "Kein Patient ausgewählt"
+  },
+  "validation": {
+    "required": "Dieses Feld ist erforderlich",
+    "invalidEmail": "Ungültige E-Mail-Adresse",
+    "invalidPhone": "Ungültige Telefonnummer",
+    "invalidDate": "Ungültiges Datum"
+  }
+}

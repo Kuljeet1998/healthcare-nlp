@@ -1,0 +1,38 @@
+{
+  "patient": {
+    "demographics": "人口統計",
+    "conditions": "病状",
+    "medications": "薬剤",
+    "allergies": "アレルギー",
+    "vitals": "バイタルサイン",
+    "procedures": "処置",
+    "encounters": "診察",
+    "observations": "観察"
+  },
+  "conditions": {
+    "diabetes": "糖尿病",
+    "hypertension": "高血圧",
+    "asthma": "喘息",
+    "depression": "うつ病",
+    "anxiety": "不安症",
+    "heartDisease": "心疾患",
+    "cancer": "がん",
+    "copd": "COPD"
+  },
+  "severity": {
+    "mild": "軽度",
+    "moderate": "中等度",
+    "severe": "重度",
+    "critical": "重篤"
+  },
+  "units": {
+    "kg": "kg",
+    "lbs": "ポンド",
+    "cm": "cm",
+    "ft": "フィート",
+    "bpm": "回/分",
+    "mmHg": "mmHg",
+    "celsius": "℃",
+    "fahrenheit": "°F"
+  }
+}

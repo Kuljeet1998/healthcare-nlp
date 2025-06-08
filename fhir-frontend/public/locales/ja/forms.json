@@ -1,0 +1,36 @@
+{
+  "query": {
+    "title": "医療クエリ",
+    "placeholder": "患者データ、病気、薬、症状について質問してください...",
+    "submit": "検索",
+    "examples": "これらの例クエリを試してください：",
+    "processing": "医療クエリを処理中...",
+    "analyzing": "高度なNLPを使用してリクエストを分析中"
+  },
+  "filters": {
+    "title": "フィルター",
+    "age": "年齢範囲",
+    "gender": "性別",
+    "conditions": "医学的状態",
+    "dateRange": "日付範囲",
+    "severity": "重症度",
+    "apply": "フィルターを適用",
+    "clear": "フィルターをクリア",
+    "showing": "{{total}}人中{{count}}人の患者を表示"
+  },
+  "patient": {
+    "details": "患者詳細",
+    "basicInfo": "基本情報",
+    "conditions": "病気",
+    "medications": "薬",
+    "vitals": "バイタルサイン",
+    "closeDetails": "詳細を閉じる",
+    "noPatientSelected": "患者が選択されていません"
+  },
+  "validation": {
+    "required": "この項目は必須です",
+    "invalidEmail": "無効なメールアドレス",
+    "invalidPhone": "無効な電話番号",
+    "invalidDate": "無効な日付"
+  }
+}

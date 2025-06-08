@@ -1,0 +1,25 @@
+{
+  "header": {
+    "title": "Interfaz de Consulta FHIR de Salud",
+    "subtitle": "Exploración de datos de salud en lenguaje natural impulsada por IA"
+  },
+  "tabs": {
+    "results": "Resultados de Consulta",
+    "table": "Datos de Pacientes",
+    "charts": "Visualizaciones"
+  },
+  "menu": {
+    "home": "Inicio",
+    "patients": "Pacientes",
+    "queries": "Consultas",
+    "reports": "Informes",
+    "admin": "Administración"
+  },
+  "api": {
+    "status": "Estado de API",
+    "online": "API En línea",
+    "offline": "API Desconectada",
+    "checking": "Verificando...",
+    "reconnect": "Reconectar"
+  }
+}

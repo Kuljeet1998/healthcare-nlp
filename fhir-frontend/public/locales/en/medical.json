@@ -1,0 +1,81 @@
+{
+  "analysis": {
+    "nlp": "NLP Analysis",
+    "intent": "Intent",
+    "confidence": "Confidence",
+    "entities": "Extracted Entities",
+    "sentiment": "Sentiment Analysis",
+    "urgency": "Urgency Score",
+    "priority": "Priority Level",
+    "specialty": "Medical Specialty"
+  },
+  "clinical": {
+    "interpretation": "Clinical Interpretation",
+    "primaryConcern": "Primary Concern",
+    "urgencyAssessment": "Urgency Assessment",
+    "context": "Clinical Context",
+    "diagnoses": "Potential Diagnoses",
+    "recommendations": "Recommendations"
+  },
+  "fhir": {
+    "query": "Generated FHIR Query",
+    "method": "Method",
+    "resource": "Resource",
+    "url": "URL",
+    "parameters": "Parameters"
+  },
+  "conditions": {
+    "diabetes": "Diabetes",
+    "hypertension": "Hypertension",
+    "asthma": "Asthma",
+    "heartDisease": "Heart Disease",
+    "migraine": "Migraine",
+    "arthritis": "Arthritis",
+    "depression": "Depression",
+    "anxiety": "Anxiety"
+  },
+  "observations": {
+    "bloodPressure": "Blood Pressure",
+    "heartRate": "Heart Rate",
+    "temperature": "Temperature",
+    "weight": "Weight",
+    "height": "Height",
+    "glucose": "Glucose",
+    "cholesterol": "Cholesterol",
+    "oxygenSaturation": "Oxygen Saturation"
+  },
+  "medications": {
+    "insulin": "Insulin",
+    "metformin": "Metformin",
+    "lisinopril": "Lisinopril",
+    "amlodipine": "Amlodipine",
+    "simvastatin": "Simvastatin",
+    "aspirin": "Aspirin",
+    "ibuprofen": "Ibuprofen",
+    "acetaminophen": "Acetaminophen"
+  },
+  "demographics": {
+    "age": "Age",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other",
+    "unknown": "Unknown",
+    "birthDate": "Birth Date",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email"
+  },
+  "charts": {
+    "ageDistribution": "Patient Age Distribution",
+    "genderDistribution": "Gender Distribution",
+    "conditionDistribution": "Medical Conditions Distribution",
+    "metricsTitle": "Query Analysis Metrics",
+    "nlpConfidence": "NLP Confidence Score",
+    "urgencyScore": "Urgency Score",
+    "activePatients": "Active Patients",
+    "avgAge": "Avg Age",
+    "conditions": "Conditions",
+    "urgencyLevel": "Urgency Level"
+  }
+}

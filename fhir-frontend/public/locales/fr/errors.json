@@ -1,0 +1,31 @@
+{
+  "api": {
+    "offline": "API hors ligne - Veuillez vérifier la connexion au serveur",
+    "error": "Erreur API",
+    "timeout": "Délai d'attente de la requête dépassé",
+    "network": "Erreur réseau",
+    "unauthorized": "Non autorisé",
+    "forbidden": "Accès interdit",
+    "notFound": "Ressource non trouvée",
+    "serverError": "Erreur interne du serveur"
+  },
+  "validation": {
+    "required": "Ce champ est requis",
+    "invalidEmail": "Format d'email invalide",
+    "invalidDate": "Format de date invalide",
+    "minLength": "Longueur minimale requise : {{min}} caractères",
+    "maxLength": "Longueur maximale dépassée : {{max}} caractères",
+    "invalidRange": "Valeur hors de la plage autorisée"
+  },
+  "query": {
+    "empty": "Veuillez saisir une requête",
+    "failed": "Échec de l'exécution de la requête",
+    "noResults": "Aucun résultat trouvé",
+    "parseError": "Erreur d'analyse de la requête"
+  },
+  "general": {
+    "unknown": "Une erreur inconnue s'est produite",
+    "tryAgain": "Veuillez réessayer",
+    "contactSupport": "Contactez le support si le problème persiste"
+  }
+}

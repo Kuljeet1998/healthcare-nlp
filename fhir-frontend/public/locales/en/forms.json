@@ -1,0 +1,37 @@
+{
+  "query": {
+    "title": "Healthcare Query",
+    "placeholder": "Ask about patient data, conditions, medications, or symptoms...",
+    "submit": "Search",
+    "examples": "Try these example queries:",
+    "processing": "Processing your healthcare query...",
+    "analyzing": "Using advanced NLP to analyze your request"
+  },
+  "filters": {
+    "title": "Filters",
+    "age": "Age Range",
+    "gender": "Gender",
+    "conditions": "Medical Conditions",
+    "dateRange": "Date Range",
+    "severity": "Severity",
+    "apply": "Apply Filters",
+    "clear": "Clear Filters",
+    "showing": "Showing {{count}} of {{total}} patients"
+  },
+  "patient": {
+    "details": "Patient Details",
+    "basicInfo": "Basic Information",
+    "conditions": "Conditions",
+    "medications": "Medications",
+    "vitals": "Vital Signs",
+    "closeDetails": "Close Details",
+    "noPatientSelected": "No patient selected"
+  },
+  "validation": {
+    "required": "This field is required",
+    "invalidEmail": "Please enter a valid email address",
+    "invalidDate": "Please enter a valid date",
+    "minLength": "Minimum {{min}} characters required",
+    "maxLength": "Maximum {{max}} characters allowed"
+  }
+}

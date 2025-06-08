@@ -1,0 +1,31 @@
+{
+  "api": {
+    "offline": "APIオフライン - サーバー接続を確認してください",
+    "error": "APIエラー",
+    "timeout": "リクエストタイムアウト",
+    "network": "ネットワークエラー",
+    "unauthorized": "認証されていません",
+    "forbidden": "アクセスが禁止されています",
+    "notFound": "リソースが見つかりません",
+    "serverError": "内部サーバーエラー"
+  },
+  "validation": {
+    "required": "この項目は必須です",
+    "invalidEmail": "無効なメール形式",
+    "invalidDate": "無効な日付形式",
+    "minLength": "最小長が必要です：{{min}} 文字",
+    "maxLength": "最大長を超えています：{{max}} 文字",
+    "invalidRange": "値が許可範囲外です"
+  },
+  "query": {
+    "empty": "クエリを入力してください",
+    "failed": "クエリの実行に失敗しました",
+    "noResults": "結果が見つかりません",
+    "parseError": "クエリ解析エラー"
+  },
+  "general": {
+    "unknown": "不明なエラーが発生しました",
+    "tryAgain": "もう一度お試しください",
+    "contactSupport": "問題が解決しない場合はサポートにお問い合わせください"
+  }
+}

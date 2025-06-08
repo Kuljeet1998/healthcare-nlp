@@ -1,0 +1,25 @@
+{
+  "header": {
+    "title": "FHIR Healthcare Query Interface",
+    "subtitle": "AI-powered natural language healthcare data exploration"
+  },
+  "tabs": {
+    "results": "Query Results",
+    "table": "Patient Data",
+    "charts": "Visualizations"
+  },
+  "menu": {
+    "home": "Home",
+    "patients": "Patients",
+    "queries": "Queries",
+    "reports": "Reports",
+    "admin": "Administration"
+  },
+  "api": {
+    "status": "API Status",
+    "online": "API Online",
+    "offline": "API Offline",
+    "checking": "Checking...",
+    "reconnect": "Reconnect"
+  }
+}

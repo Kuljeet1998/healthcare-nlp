@@ -1,0 +1,28 @@
+{
+  "header": {
+    "title": "قاعدة بيانات المرضى FHIR",
+    "subtitle": "إدارة البيانات الصحية للمرضى"
+  },
+  "nav": {
+    "dashboard": "لوحة التحكم",
+    "patients": "المرضى",
+    "search": "البحث",
+    "reports": "التقارير",
+    "analytics": "التحليلات",
+    "settings": "الإعدادات"
+  },
+  "menu": {
+    "file": "ملف",
+    "edit": "تحرير",
+    "view": "عرض",
+    "tools": "الأدوات",
+    "help": "المساعدة"
+  },
+  "breadcrumb": {
+    "home": "الرئيسية",
+    "patients": "المرضى",
+    "patient": "المريض",
+    "details": "التفاصيل",
+    "history": "التاريخ"
+  }
+}

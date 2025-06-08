@@ -1,0 +1,31 @@
+{
+  "api": {
+    "offline": "API离线 - 请检查服务器连接",
+    "error": "API错误",
+    "timeout": "请求超时",
+    "network": "网络错误",
+    "unauthorized": "未授权",
+    "forbidden": "访问被禁止",
+    "notFound": "资源未找到",
+    "serverError": "内部服务器错误"
+  },
+  "validation": {
+    "required": "此字段为必填项",
+    "invalidEmail": "邮箱格式无效",
+    "invalidDate": "日期格式无效",
+    "minLength": "所需最小长度：{{min}} 字符",
+    "maxLength": "超过最大长度：{{max}} 字符",
+    "invalidRange": "值超出允许范围"
+  },
+  "query": {
+    "empty": "请输入查询",
+    "failed": "查询执行失败",
+    "noResults": "未找到结果",
+    "parseError": "查询解析错误"
+  },
+  "general": {
+    "unknown": "发生未知错误",
+    "tryAgain": "请重试",
+    "contactSupport": "如果问题仍然存在，请联系支持"
+  }
+}
