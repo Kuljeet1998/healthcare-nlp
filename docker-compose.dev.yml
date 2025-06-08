@@ -1,0 +1,59 @@
+version: '3.8'
+
+services:
+  backend-dev:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    container_name: fhir-backend-dev
+    ports:
+      - "5001:5001"
+    environment:
+      - FLASK_ENV=development
+      - FLASK_DEBUG=1
+      - PYTHONUNBUFFERED=1
+    volumes:
+      # Mount source code for hot reload
+      - ./fhir_api_server.py:/app/fhir_api_server.py
+      - ./fhir_query_service.py:/app/fhir_query_service.py
+      - ./logs:/app/logs
+    networks:
+      - fhir-network
+    restart: unless-stopped
+    command: ["python", "-u", "fhir_api_server.py"]
+
+  # Development database (optional for future use)
+  db-dev:
+    image: postgres:15-alpine
+    container_name: fhir-db-dev
+    environment:
+      - POSTGRES_DB=fhir_dev
+      - POSTGRES_USER=fhir_user
+      - POSTGRES_PASSWORD=fhir_password
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    networks:
+      - fhir-network
+    profiles:
+      - database
+
+  # Redis for caching (optional for future use)
+  redis-dev:
+    image: redis:7-alpine
+    container_name: fhir-redis-dev
+    ports:
+      - "6379:6379"
+    networks:
+      - fhir-network
+    profiles:
+      - cache
+
+networks:
+  fhir-network:
+    driver: bridge
+
+volumes:
+  postgres_data:
+    driver: local
